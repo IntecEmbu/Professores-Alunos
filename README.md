@@ -1,1 +1,19 @@
 > # Professores-Alunos 👨‍🎓
+> ### ....
+
+<br>
+
+> ## Objetivo 🎯
+  ### ...
+
+<br>
+
+> ## Sobre 💡
+  ### ...
+  
+<br>
+
+> ## Funcionalidades ⚙️
+  - ### ...
+  - ### ...
+  - ### ... 
